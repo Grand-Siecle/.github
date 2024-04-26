@@ -23,7 +23,7 @@ Ce projet débouchera sur une thèse de doctorat, la publication de plusieurs ce
 
 Ce projet Git recense l'ensemble des données et des codes utilisés dans l'objectif de construire une base de données autour des éditions numériques produites.
 
-- Données ALTO : [https://gitlab.unige.ch/grand_siecle/data_alto](https://gitlab.unige.ch/grand_siecle/data_alto)
+- Données ALTO : [https://github.com/Grand-Siecle/data_alto](https://github.com/Grand-Siecle/data_alto)
 - IIIF Collector: [https://gitlab.unige.ch/grand_siecle/iiif_collector](https://gitlab.unige.ch/grand_siecle/iiif_collector)
 
 ## Ressources extérieures
