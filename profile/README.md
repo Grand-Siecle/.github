@@ -1,7 +1,7 @@
 # Peindre et penser la peinture en France durant le premier XVIIe siècle : discours, artistes, concepts
 
 <p align="center">
-  <img src="../img/Georges_de_La_Tour_009-500x404.jpg">
+  <img src="https://github.com/Grand-Siecle/.github/blob/main/img/Georges_de_La_Tour_009-500x404.jpg">
   <figcaption><i>La Madeleine aux deux flammes</i>, Georges de La Tour</figcaption>
 </p>
 
@@ -24,7 +24,10 @@ Ce projet débouchera sur une thèse de doctorat, la publication de plusieurs ce
 Ce projet Git recense l'ensemble des données et des codes utilisés dans l'objectif de construire une base de données autour des éditions numériques produites.
 
 - Données ALTO : [https://github.com/Grand-Siecle/data_alto](https://github.com/Grand-Siecle/data_alto)
-- IIIF Collector: [https://gitlab.unige.ch/grand_siecle/iiif_collector](https://gitlab.unige.ch/grand_siecle/iiif_collector)
+- IIIF Collector: [https://github.com/Grand-Siecle/iiif_collector](https://github.com/Grand-Siecle/iiif_collector)
+- IIIF2ALTO : [https://github.com/Grand-Siecle/iiif2alto](https://github.com/Grand-Siecle/iiif2alto)
+- KamiCLI : [https://github.com/Grand-Siecle/kamiCLI](https://github.com/Grand-Siecle/kamiCLI)
+- UniMatic2CSV : [https://github.com/Grand-Siecle/UniMatic2CSV](https://github.com/Grand-Siecle/UniMatic2CSV)
 
 ## Ressources extérieures
 
