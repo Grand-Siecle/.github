@@ -1,7 +1,7 @@
 # Peindre et penser la peinture en France durant le premier XVIIe siècle : discours, artistes, concepts
 
 <p align="center">
-  <img src="img/Georges_de_La_Tour_009-500x404.jpg">
+  <img src="../img/Georges_de_La_Tour_009-500x404.jpg">
   <figcaption><i>La Madeleine aux deux flammes</i>, Georges de La Tour</figcaption>
 </p>
 
